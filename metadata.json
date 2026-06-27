@@ -1,0 +1,6 @@
+{
+  "name": "WriteFlow",
+  "description": "An elegant, offline document editor inspired by Microsoft Word. Create, format, and save documents securely on your local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
